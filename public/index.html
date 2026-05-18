@@ -1,13 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="script.js"></script>
+    <title>Anime Store - Catálogo em Cards</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+    <header class="page-header">
+        <div>
+            <span class="eyebrow">Semana 9</span>
+            <h1>Anime Store</h1>
+            <p>Catálogo dinâmico de produtos de anime criado com funções JavaScript e manipulação do DOM.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="controls" aria-label="Controles do catálogo">
+            <div class="field">
+                <label for="search">Buscar item</label>
+                <input id="search" type="search" placeholder="Digite o nome do anime ou produto">
+            </div>
+
+            <div class="field">
+                <label for="category">Categoria</label>
+                <select id="category">
+                    <option value="Todas">Todas</option>
+                </select>
+            </div>
+
+            <button id="btnRender" type="button">Renderizar</button>
+        </section>
+
+        <section class="summary" id="summary" aria-live="polite"></section>
+
+        <section class="catalog-section">
+            <div class="section-title">
+                <h2>Produtos de anime</h2>
+                <span id="result-count">0 itens</span>
+            </div>
+            <div id="product-list" class="product-grid"></div>
+        </section>
+
+        <aside id="product-details" class="details-box" aria-live="polite">
+            <h2>Detalhes do produto</h2>
+            <p>Selecione um item do catálogo para visualizar as informações completas.</p>
+        </aside>
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>

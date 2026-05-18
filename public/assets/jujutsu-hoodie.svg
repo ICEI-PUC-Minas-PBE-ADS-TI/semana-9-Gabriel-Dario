@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Moletom Jujutsu Kaisen</title>
+  <desc id="desc">Imagem ilustrativa de produto de anime</desc>
+  <rect width="900" height="675" fill="#18181b"/>
+  <rect x="78" y="76" width="744" height="524" rx="40" fill="#c7d2fe"/>
+  <path d="M310 250c0-90 280-90 280 0v260H310z" fill="#312e81"/>
+  <path d="M362 250c18 54 58 82 88 82s70-28 88-82" fill="none" stroke="#a5b4fc" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="370" cy="390" r="42" fill="#f43f5e"/>
+  <circle cx="530" cy="390" r="42" fill="#f59e0b"/>
+  <text x="450" y="560" fill="#18181b" font-family="Arial, sans-serif" font-size="52" font-weight="800" text-anchor="middle">JUJUTSU</text>
+</svg>

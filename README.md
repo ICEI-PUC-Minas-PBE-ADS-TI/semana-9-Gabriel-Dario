@@ -4,13 +4,13 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Gabriel Dário Matos Clemente
+- Matrícula: 928004
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Cards de produtos de anime renderizados](image.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Detalhes do produto de anime](image-1.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![Console do navegador](image-2.png)

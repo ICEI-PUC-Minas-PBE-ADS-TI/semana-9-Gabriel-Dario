@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Camiseta Attack on Titan</title>
+  <desc id="desc">Imagem ilustrativa de produto de anime</desc>
+  <rect width="900" height="675" fill="#111827"/>
+  <rect x="70" y="68" width="760" height="538" rx="36" fill="#e5e7eb"/>
+  <path d="M310 180h280l90 110-84 70-38-46v190H342V314l-38 46-84-70z" fill="#374151"/>
+  <path d="M370 330c60-76 100-76 160 0M394 370c38-42 74-42 112 0" fill="none" stroke="#facc15" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="555" fill="#111827" font-family="Arial, sans-serif" font-size="52" font-weight="800" text-anchor="middle">ATTACK SHIRT</text>
+</svg>
